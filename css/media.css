@@ -1,0 +1,219 @@
+@media(min-width:0px) and (max-width:575px){
+      
+.banner_content h5 {
+    font-size: 14px;
+    text-align: center;
+}
+.phone{
+    display: none;
+}
+.banner_content h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+.banner_content p {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.btn-download,.btn-features{
+    padding: 12px 15px;
+    font-size: 14px;
+    margin-top: 25px !important;
+}
+.banner_content {
+    text-align: center;
+    min-height: 60vh;
+       
+}
+.features_items p{
+    font-size: 16px;
+}
+.features_items h2 {
+    margin-top: 10px;
+}
+.features_items{
+    padding-top: 0 !important;
+}
+.feature {
+    padding-bottom: 0 !important;
+}
+.heading_two {
+    text-align: center;
+}
+.phone2 img{
+    width: 50%;
+}
+.heading_two h1{
+    margin-top: 8px;
+}
+.heading_two h5{
+    margin-top: 26px;
+}
+.heading_two p {
+    margin-top: 20px !important;
+}
+.heading_two ul {
+    margin: 0;
+    padding: 0;
+}
+.heading_two ul .fas .fa-bolt{
+    margin-right: 30px;
+}
+.beautiful-device {
+    margin: 0 !important;
+}
+.heading_three h1{
+    margin-top: 8px;
+}
+.heading_three h5{
+    margin-top: 26px;
+}
+.heading_three p{
+    margin-top:20px;
+}
+.iphone img{
+    width: 80%;
+}
+.heading_three{
+    text-align: center;
+}
+.customise_section{
+    padding: 0 !important;
+}
+.pricing{
+    padding-bottom: 0 !important;
+}
+.contacts h4{
+    margin-top: 15px;
+}
+.contacts .row{
+    padding: 0 !important;
+}
+.contact-form {
+    top: 90%;
+    width: 80% !important;
+    margin-left: 30px;
+}
+.footer_content ul li{
+    font-size: 20px;
+}
+footer h5{
+    font-size: 14px;
+}
+form input[type="submit"] {
+    margin-top: 20px !important;
+    margin-left: 85px !important;
+}
+.testimonial{
+    padding-bottom: 0 !important;
+}
+.owl-dot{
+    margin-left: 110px;
+}
+.icon_box{
+    margin-top: 15px;
+}
+.testimonial p{
+    font-size: 14px;
+}
+}
+
+@media(min-width:0px) and (max-width:320px){
+    .btn-features{
+        margin-left: 30px;
+    
+    }
+    .banner_content {
+        min-height: 80vh;   
+    }
+    .great_theme .btn-download{
+        margin-left: 0 !important;
+    }
+    .contact-form{
+    top: 87%;
+    margin-left: 28px;
+    width: 75%;
+    text-align: center;
+}
+form input[type="submit"] {
+    margin-left:-5px !important;
+}
+}
+
+}
+@media(min-width:0px) and (max-width:375px){
+    form input[type="submit"] {
+        margin-top: 20px;
+        margin-left:23px;
+    }
+}
+@media(min-width:0px) and (max-width:425px){
+    .testimonial p{
+        font-size: 18px;
+        text-align: center;
+    }
+    .client {
+        margin-left: 56px;
+        margin-top:30px !important;
+    }
+    .contact-form{
+        top: 90%;
+        width: 74%;
+ }
+ form input[type="submit"] {
+    margin-top: 20px !important;
+    margin-left:39px !important;
+}
+}
+@media(min-width:576px) and (max-width:767
+px){
+    .phone img{
+        display: none;
+    }
+    .btn-features {
+        margin-left: 28px;
+        margin-top: 10px;
+    }
+    .heading_two h5{
+        margin-top: 65px !important;
+    }
+    .contact-form{
+        width: 90%;
+    }
+}
+@media(min-width:0px) and (max-width:768px){
+    .btn-features {
+        padding: 15px 27px;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    .phone{
+        left: 48%;
+    }
+    .great_theme .btn-download {
+        margin-left: 18px;
+        margin-top: 25px !important;
+        padding: 13px 19px;
+    }
+    .testimonial p{
+        font-size: 16px;
+    }
+    .contact-form {
+            top: 90%;
+            width: 50%;
+    }
+    .iphone{
+        margin-top: 143px;
+ }
+ .features_items h2 {
+    margin-top: 15px;
+}
+.service_type h1 {
+    font-size: 24px;
+}
+}
+
+
+
